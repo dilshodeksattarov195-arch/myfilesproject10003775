@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerverify",
+        "uuid": 1400525,
+        "checksum": "3nuwks"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
